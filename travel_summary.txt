@@ -1,0 +1,6 @@
+travel data summary
+==================
+Total Trips: 25
+Total Travel Cost (GBP): 4945.00
+Average Travel Cost (GBP): 197.80
+Average Speed (Km/h): 202.07
